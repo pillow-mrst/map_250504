@@ -1,0 +1,72 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.nothing {
+    visibility:hidden;
+}
+
+.another {
+    border: dashed 1px black;   /*実線 1px 黒*/
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.booth, .empty {
+    border: solid 1px black;   /*実線 1px 黒*/
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.aisle_h {
+    visibility:hidden;
+    height: 15px;
+}
+
+.space {
+    height: 20px;
+}
+
+.output {
+    height: 150px;
+}
+
+.club {
+    border: dashed 2px black;
+    margin: auto;
+    padding: 10px;
+    width: 320px;
+    display: none;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.place {
+    text-align: left;
+    float: left;
+}
+
+.bookmark {
+    text-align: right;
+}
+
+.check {
+    color: black;
+    /*ブックマークしたらyellowに変更*/
+}
+
+.sale {
+    text-align: center;
+}

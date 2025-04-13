@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>ブース情報</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--CSS読み込み-->
+  <!--onloadのところは変数なので、これで大丈夫-->
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/themes/smoothness/jquery-ui.css">
+  <!--
+    "./main.css"
+  -->
+  <link rel="stylesheet" href="https://pillow-mrst.github.io/map_250504/main.css">
+  </head>
+<body>
+  <div class="container">
+    <table class="tbl">
+      <div class="top">
+        <tr>
+          <td id="し09" class="another">9</td>
+          <td id="く28" class="another">28</td>
+        </tr>
+        <tr>
+          <td class="nothing"></td>
+        </tr>
+        <tr>
+          <td id="F57" class="booth" colspan="2">57</td>
+        </tr>
+        <tr>
+          <td id="F58" class="booth">58</td>
+          <td id="F56" class="booth">56</td>
+        </tr>
+        <tr>
+          <td id="F59" class="booth">59</td>
+          <td id="F55" class="booth">55</td>
+        </tr>
+        <tr>
+          <td class="empty">×</td>
+          <td class="empty">×</td>
+        </tr>
+      </div>
+
+      <div>
+        <tr class="aisle_h"></tr>
+      </div>
+
+      <div class="bottom">
+        <tr>
+          <td class="empty">×</td>
+          <td class="empty">×</td>
+        </tr>
+        <tr>
+          <td id="F60" class="booth">60</td>
+          <td id="F54" class="booth">54</td>
+        </tr>
+        <tr>
+          <td id="F61" class="booth">61</td>
+          <td id="F53" class="booth">53</td>
+        </tr>
+        <tr>
+          <td id="F62" class="booth">62</td>
+          <td id="F52" class="booth">52</td>
+        </tr>
+        <tr>
+          <td id="F63" class="booth">63</td>
+          <td id="F51" class="booth">51</td>
+        </tr>
+        <tr>
+          <td id="F64" class="booth">64</td>
+          <td id="F50" class="booth">50</td>
+        </tr>
+        <tr>
+          <td id="F49" class="booth" colspan="2">49</td>
+        </tr>
+      </div>
+    </table>
+
+    <table class="tbl">
+      <div class="top">
+        <tr>
+          <td id="F37" class="booth" colspan="2">37</td>
+        </tr>
+        <tr>
+          <td id="F38" class="booth">38</td>
+          <td id="F36" class="booth">36</td>
+        </tr>
+        <tr>
+          <td id="F39" class="booth">39</td>
+          <td id="F35" class="booth">35</td>
+        </tr>
+        <tr>
+          <td id="F40" class="booth">40</td>
+          <td id="F34" class="booth">34</td>
+        </tr>
+        <tr>
+          <td id="F41" class="booth">41</td>
+          <td id="F33" class="booth">33</td>
+        </tr>
+        <tr>
+          <td id="F42" class="booth">42</td>
+          <td id="F32" class="booth">32</td>
+        </tr>
+      </div>
+
+      <div>
+        <tr class="aisle_h"></tr>
+      </div>
+
+      <div class="bottom">
+        <tr>
+          <td id="F43" class="booth">43</td>
+          <td id="F31" class="booth">31</td>
+        </tr>
+        <tr>
+          <td id="F44" class="booth">44</td>
+          <td id="F30" class="booth">30</td>
+        </tr>
+        <tr>
+          <td id="F45" class="booth">45</td>
+          <td id="F29" class="booth">29</td>
+        </tr>
+        <tr>
+          <td id="F46" class="booth">46</td>
+          <td id="F28" class="booth">28</td>
+        </tr>
+        <tr>
+          <td id="F47" class="booth">47</td>
+          <td id="F27" class="booth">27</td>
+        </tr>
+        <tr>
+          <td id="F48" class="booth">48</td>
+          <td id="F26" class="booth">26</td>
+        </tr>
+        <tr>
+          <td id="F25" class="booth" colspan="2">25</td>
+        </tr>
+      </div>
+    </table>
+
+    <table class="tbl">
+      <div class="top">
+        <tr>
+          <td id="F13" class="booth" colspan="2">13</td>
+        </tr>
+        <tr>
+          <td id="F14" class="booth">14</td>
+          <td id="F12" class="booth">12</td>
+        </tr>
+        <tr>
+          <td id="F15" class="booth">15</td>
+          <td id="F11" class="booth">11</td>
+        </tr>
+        <tr>
+          <td id="F16" class="booth">16</td>
+          <td id="F10" class="booth">10</td>
+        </tr>
+        <tr>
+          <td id="F17" class="booth">17</td>
+          <td id="F09" class="booth">9</td>
+        </tr>
+        <tr>
+          <td id="F18" class="booth">18</td>
+          <td id="F08" class="booth">8</td>
+        </tr>
+      </div>
+
+      <div>
+        <tr class="aisle_h"></tr>
+      </div>
+
+      <div class="bottom">
+        <tr>
+          <td id="F19" class="booth">19</td>
+          <td id="F07" class="booth">7</td>
+        </tr>
+        <tr>
+          <td id="F20" class="booth">20</td>
+          <td id="F06" class="booth">6</td>
+        </tr>
+        <tr>
+          <td id="F21" class="booth">21</td>
+          <td id="F05" class="booth">5</td>
+        </tr>
+        <tr>
+          <td id="F22" class="booth">22</td>
+          <td id="F04" class="booth">4</td>
+        </tr>
+        <tr>
+          <td id="F23" class="booth">23</td>
+          <td id="F03" class="booth">3</td>
+        </tr>
+        <tr>
+          <td id="F24" class="booth">24</td>
+          <td id="F02" class="booth">2</td>
+        </tr>
+        <tr>
+          <td id="F01" class="booth" colspan="2">1</td>
+        </tr>
+      </div>
+    </table>
+
+    <table class="tbl">
+      <div class="top">
+        <tr>
+          <td id="E35" class="booth" colspan="2">35</td>
+        </tr>
+        <tr>
+          <td id="E36" class="booth">36</td>
+          <td id="E34" class="booth">34</td>
+        </tr>
+        <tr>
+          <td id="E37" class="booth">37</td>
+          <td id="E33" class="booth">33</td>
+        </tr>
+        <tr>
+          <td id="E38" class="booth">38</td>
+          <td id="E32" class="booth">32</td>
+        </tr>
+        <tr>
+          <td id="E39" class="booth">39</td>
+          <td id="E31" class="booth">31</td>
+        </tr>
+        <tr>
+          <td id="E40" class="booth">40</td>
+          <td id="E30" class="booth">30</td>
+        </tr>
+      </div>
+
+      <div>
+        <tr class="aisle_h"></tr>
+      </div>
+
+      <div class="bottom">
+        <tr>
+          <td id="E41" class="booth">41</td>
+          <td id="E29" class="booth">29</td>
+        </tr>
+        <tr>
+          <td id="E42" class="booth">42</td>
+          <td id="E28" class="booth">28</td>
+        </tr>
+        <tr>
+          <td id="E43" class="booth">43</td>
+          <td id="E27" class="booth">27</td>
+        </tr>
+        <tr>
+          <td id="E44" class="booth">44</td>
+          <td id="E26" class="booth">26</td>
+        </tr>
+        <tr>
+          <td id="E45" class="booth">45</td>
+          <td id="E25" class="booth">25</td>
+        </tr>
+        <tr>
+          <td id="E46" class="booth">46</td>
+          <td id="E24" class="booth">24</td>
+        </tr>
+        <tr>
+          <td id="E23" class="booth" colspan="2">23</td>
+        </tr>
+      </div>
+    </table>
+  </div>
+
+  <div class="space"></div>
+
+  <div id="output">
+    <div id="ab" class="club">
+      <div class="information">
+        <p class="place">(ab)</p>
+        <p class="bookmark">
+          <input type="checkbox" class="favorite" name="favorite" value="">
+          <span class="mark">☆</span>
+        </p>
+        <span>&nbsp;サークル名：</span>
+        <span class="name"></span>
+        <br>
+        <span>&nbsp;サークル代表者：</span>
+        <span class="master"></span>
+      </div>
+      <div class="sale">
+        <span>頒布物は</span>
+        <span><a class="url" href="">こちら</a></span>
+      </div>
+    </div>
+
+    <div id="a" class="club">
+      <div class="information">
+        <p class="place">(a)</p>
+        <p class="bookmark">
+          <input type="checkbox" class="favorite" name="favorite" value="">
+          <span class="mark">☆</span>
+        </p>
+        <span>&nbsp;サークル名：</span>
+        <span class="name"></span>
+        <br>
+        <span>&nbsp;サークル代表者：</span>
+        <span class="master"></span>
+      </div>
+      <div class="sale">
+        <span>頒布物は</span>
+        <span><a class="url" href="">こちら</a></span>
+      </div>
+    </div>
+
+    <div id="b" class="club">
+      <div class="information">
+        <p class="place">(a)</p>
+        <p class="bookmark">
+          <input type="checkbox" class="favorite" name="favorite" value="">
+          <span class="mark">☆</span>
+        </p>
+        <span>&nbsp;サークル名：</span>
+        <span class="name"></span>
+        <br>
+        <span>&nbsp;サークル代表者：</span>
+        <span class="master"></span>
+      </div>
+      <div class="sale">
+        <span>頒布物は</span>
+        <span><a class="url" href="">こちら</a></span>
+      </div>
+    </div>
+</div>
+  <!--スクリプト読み込み(最初にjquery.min.js)-->
+  <!--body内で使用する関数が記述されているjsならheadに記述する-->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/libs/jquery.min.js"><\/script>')</script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/jquery-ui.min.js"></script>
+  <script>window.jQuery.ui || document.write('<script src="/libs/jquery-ui.min.js"><\/script>')</script>
+  <!--
+    "./main.js"
+  -->
+  <script type="text/javascript" src="https://pillow-mrst.github.io/map_250504/main.js"></script>
+</body>
+</html>
