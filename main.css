@@ -14,7 +14,7 @@ table {
 }
 
 .another {
-    border: dashed 1px black;   /*実線 1px 黒*/
+    border: dotted 1px black;   /*実線 1px 黒*/
     width: 30px;
     height: 30px;
     text-align: center;
@@ -69,4 +69,39 @@ p {
 
 .sale {
     text-align: center;
+}
+
+/* 別ページ*/
+.link {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#list {
+    margin: auto;
+    margin-top: 20px;
+    max-width: 360px;
+}
+
+#resume {
+    border: dashed 2px black;
+    max-width: 360px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.update {
+    text-decoration: underline;
+}
+
+dl{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+dt{
+    float:left;
+}
+dd{
+    margin-left:80px;
 }

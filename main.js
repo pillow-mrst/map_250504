@@ -53,7 +53,7 @@ const JsonData = `[
     "place": "東7F01ab",
     "name": "アルコール度数70%前後",
     "master": "坂本",
-    "url": "https://x.com/search?q=from%3Amo_mo_skmt%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Amo_mo_skmt%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F40b",
@@ -95,7 +95,7 @@ const JsonData = `[
     "place": "東7F04b",
     "name": "うるちもち",
     "master": "ぴっぽ",
-    "url": "https://x.com/search?q=from%3Apizapote_nyo%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Apizapote_nyo%20or%20from%3ABACHeally%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F50b",
@@ -167,7 +167,7 @@ const JsonData = `[
     "place": "東7F43a",
     "name": "(株)どくだみりんご",
     "master": "かいちょお",
-    "url": "https://x.com/search?q=from%3Ashunkaichoo0910%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ashunkaichoo0910%20or%20from%3ALuminales_kanro%20or%20from%3Ahiyokoyoriyori%20filter%3Alinks&src=typed_query&f=live"
   },
   {
     "place": "東7F12ab",
@@ -263,7 +263,7 @@ const JsonData = `[
     "place": "東7F51a",
     "name": "ゲス同盟",
     "master": "めぐ",
-    "url": "https://x.com/search?q=from%3Ag_mcps%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ag_mcps%20or%20from%3Avalllhalllla%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F22a",
@@ -371,7 +371,7 @@ const JsonData = `[
     "place": "東7F05b",
     "name": "春夕",
     "master": "すのちゃん",
-    "url": "https://x.com/search?q=from%3Asunohala00%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Asunohala00%20or%20from%3Aichi_9ra%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F27a",
@@ -395,7 +395,7 @@ const JsonData = `[
     "place": "東7E45a",
     "name": "すいめんみなも",
     "master": "らこめ",
-    "url": "https://x.com/search?q=from%3Arakorakome%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Arakorakome%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F35a",
@@ -683,7 +683,7 @@ const JsonData = `[
     "place": "東7E28a",
     "name": "星摘日和",
     "master": "神北なぎさ",
-    "url": "https://x.com/search?q=from%3Anagisa_243%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Anagisa_243%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F57a",
@@ -743,7 +743,7 @@ const JsonData = `[
     "place": "東7E38b",
     "name": "Mayday",
     "master": "水都遥希",
-    "url": "https://x.com/search?q=from%3Amt_mrst%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Amt_mrst%20or%20from%3Acyokoroom%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F03a",
@@ -994,6 +994,7 @@ $('table').on('click', '.booth, .another', function () {
         $frame[i].hide();
       }
     }
+    $('.link').hide();
 });
 
 // サークル情報の辞書取得
