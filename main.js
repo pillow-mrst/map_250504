@@ -158,6 +158,12 @@ const JsonData = `[
     "url": "https://x.com/search?q=from%3AKay__s__%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
+    "place": "東7F10b",
+    "name": "カナン普及委員会",
+    "master": "キュー",
+    "url": "https://x.com/search?q=from%3Anonostoria%20filter%3Alinks&src=typed_query&f=live"
+  },
+  {
     "place": "東7F04a",
     "name": "カフェラテマグカップ",
     "master": "白霙ラテ",
@@ -174,6 +180,12 @@ const JsonData = `[
     "name": "かみつば文芸部",
     "master": "シャトン",
     "url": "https://x.com/search?q=from%3Anekoneko_chaton%20or%20from%3Agintrancenica%20or%20from%3Abeni_gmm%20or%20from%3Ahatsu0528%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20#かみつば文芸部&src=typed_query&f=live"
+  },
+  {
+    "place": "東7F33b",
+    "name": "がむしろ大爆破！",
+    "master": "黒井美鈴",
+    "url": "https://x.com/search?q=from%3AMirexi_K%20or%20from%3Atbar_Aqpinwheel%20or%20from%3AVANEDRA_zip%20or%20from%3ASak_A_LD%20filter%3Alinks&src=typed_query&f=live"
   },
   {
     "place": "東7F57b",
@@ -228,6 +240,18 @@ const JsonData = `[
     "name": "Q6",
     "master": 961,
     "url": "https://x.com/search?q=from%3Akey_961%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+  },
+  {
+    "place": "東7E28b",
+    "name": "きらぼし",
+    "master": "ヒカル",
+    "url": "https://x.com/search?q=from%3Ahikat1019087%20filter%3Alinks&src=typed_query&f=live"
+  },
+  {
+    "place": "東7F15a",
+    "name": "菌床栽培",
+    "master": "椎",
+    "url": "https://x.com/search?q=from%3ASi_nappa%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E39a",
@@ -371,7 +395,7 @@ const JsonData = `[
     "place": "東7F05b",
     "name": "春夕",
     "master": "すのちゃん",
-    "url": "https://x.com/search?q=from%3Asunohala00%20or%20from%3Aichi_9ra%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Asunohala00%20or%20from%3Aichi_9ra%20or%20from%3Aob_drad%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F27a",
@@ -656,6 +680,12 @@ const JsonData = `[
     "url": "https://x.com/search?q=from%3Atakemrst%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
+    "place": "東7F29b",
+    "name": "ブルーアワー",
+    "master": "りいりん",
+    "url": "https://x.com/search?q=from%3Ajdriringil%20filter%3Alinks&src=typed_query&f=live"
+  },
+  {
     "place": "東7F52b",
     "name": "pourpre *出張店舗",
     "master": "ひこ",
@@ -734,6 +764,12 @@ const JsonData = `[
     "url": "https://x.com/search?q=from%3Aneru_v_v%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
+    "place": "東7E26b",
+    "name": "むぎちゃパック",
+    "master": "むぎ",
+    "url": "https://x.com/search?q=from%3Aamahamchan%20filter%3Alinks&src=typed_query&f=live"
+  },
+  {
     "place": "東7F52a",
     "name": "紫の国",
     "master": "葵星",
@@ -767,7 +803,7 @@ const JsonData = `[
     "place": "東7F10a",
     "name": "メルストギルド合同誌企画",
     "master": "エド",
-    "url": "https://x.com/search?q=from%3AED_mrst%20#メルストギルド合同誌&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AED_mrst%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20#メルストギルド合同誌&src=typed_query&f=live"
   },
   {
     "place": "東7F60b",
@@ -833,7 +869,7 @@ const JsonData = `[
     "place": "東7F39ab",
     "name": "癒術士派遣協会",
     "master": "HARIO",
-    "url": "https://x.com/search?q=from%3AHario_cos%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AHario_cos%20or%20from%3AComCom_majo%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F61b",
