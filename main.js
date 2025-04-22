@@ -23,7 +23,7 @@ const JsonData = `[
     "place": "東7F44a",
     "name": "紫陽花しぐれ",
     "master": "アチェロ",
-    "url": "https://x.com/search?q=from%3AAceroKano%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AAceroKano%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F24ab",
@@ -47,7 +47,7 @@ const JsonData = `[
     "place": "東7F43b",
     "name": "あめだま",
     "master": "平和なゆう",
-    "url": "https://x.com/search?q=from%3Akuonnyuu%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Akuonnyuu%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F01ab",
@@ -173,7 +173,7 @@ const JsonData = `[
     "place": "東7F43a",
     "name": "(株)どくだみりんご",
     "master": "かいちょお",
-    "url": "https://x.com/search?q=from%3Ashunkaichoo0910%20or%20from%3ALuminales_kanro%20or%20from%3Ahiyokoyoriyori%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ashunkaichoo0910%20or%20from%3ALuminales_kanro%20or%20from%3Ahiyokoyoriyori%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F12ab",
@@ -551,7 +551,7 @@ const JsonData = `[
     "place": "東7F60a",
     "name": "なないろ遊園地",
     "master": "しろさん",
-    "url": "https://x.com/search?q=from%3Apikaitigo%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Apikaitigo%20or%20from%3Agame_mayuyun%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F03b",
@@ -575,7 +575,7 @@ const JsonData = `[
     "place": "東7E42b",
     "name": "二百七十番地",
     "master": "露木",
-    "url": "https://x.com/search?q=from%3ASidareyanagi270%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3ASidareyanagi270%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20ミニ色紙&src=typed_query&f=live"
   },
   {
     "place": "東7F21ab",
@@ -647,7 +647,7 @@ const JsonData = `[
     "place": "東7E23b",
     "name": "ぴっぴ1/2",
     "master": "あゆむもち、なりなり",
-    "url": "https://x.com/search?q=from%3Anotsya3021%20or%20from%3Alily_na19%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Anotsya3021%20or%20from%3Alily_na19%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F09b",
