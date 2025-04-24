@@ -149,7 +149,7 @@ const JsonData = `[
     "place": "東7E41a",
     "name": "おやすみまで3秒",
     "master": "日向陽",
-    "url": "https://x.com/search?q=from%3Ahinadani%20or%20from%3Ausagijum033%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ahinadani%20or%20from%3Ausagijum033%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20お品書き%20or%20色紙&src=typed_query&f=live"
   },
   {
     "place": "東7F62b",
@@ -383,7 +383,7 @@ const JsonData = `[
     "place": "東7E44a",
     "name": "sucres",
     "master": "ゆなせ",
-    "url": "https://x.com/search?q=from%3Asytk_r%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Asytk_r%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F23b",
@@ -401,7 +401,7 @@ const JsonData = `[
     "place": "東7F27a",
     "name": "白樺の薪",
     "master": "飾白",
-    "url": "https://x.com/search?q=from%3Akazari753%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Akazari753%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F08ab",
@@ -509,7 +509,7 @@ const JsonData = `[
     "place": "東7E24b",
     "name": "DECOBOCO MILK",
     "master": "鼓谷",
-    "url": "https://x.com/search?q=from%3Acota2_denki%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Acota2_denki%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20メルぱら%20or%20色紙&src=typed_query&f=live"
   },
   {
     "place": "東7F36b",
@@ -635,7 +635,7 @@ const JsonData = `[
     "place": "東7F18a",
     "name": "被弾人withA",
     "master": "あさり",
-    "url": "https://x.com/search?q=from%3AHamaguri_158%20or%20from%3Asen_nnnnn%20or%20from%3AAonnu_0525%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AHamaguri_158%20or%20from%3Asen_nnnnn%20or%20from%3AAonnu_0525%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F09a",
@@ -737,7 +737,7 @@ const JsonData = `[
     "place": "東7F14a",
     "name": "マジカルデッドラインマン",
     "master": "羽宮かれん",
-    "url": "https://x.com/search?q=from%3A_kr_um%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3A_kr_um%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E34a",
@@ -797,7 +797,7 @@ const JsonData = `[
     "place": "東7E37b",
     "name": "メメ輪結び",
     "master": "桃依",
-    "url": "https://x.com/search?q=from%3Ammoii_m3%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ammoii_m3%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F10a",
@@ -869,7 +869,7 @@ const JsonData = `[
     "place": "東7F39ab",
     "name": "癒術士派遣協会",
     "master": "HARIO",
-    "url": "https://x.com/search?q=from%3AHario_cos%20or%20from%3AComCom_majo%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AHario_cos%20or%20from%3AComCom_majo%20or%20from%3Anagimrst_cos%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F61b",
