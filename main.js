@@ -83,7 +83,7 @@ const JsonData = `[
     "place": "東7F44b",
     "name": "伝染くしき",
     "master": "ゆると",
-    "url": "https://x.com/search?q=from%3A_yu_610_x%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3A_yu_610_x%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E33a",
@@ -149,7 +149,7 @@ const JsonData = `[
     "place": "東7E41a",
     "name": "おやすみまで3秒",
     "master": "日向陽",
-    "url": "https://x.com/search?q=from%3Ahinadani%20or%20from%3Ausagijum033%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20お品書き%20or%20色紙&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ahinadani%20or%20from%3Ausagijum033%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F62b",
@@ -575,7 +575,7 @@ const JsonData = `[
     "place": "東7E42b",
     "name": "二百七十番地",
     "master": "露木",
-    "url": "https://x.com/search?q=from%3ASidareyanagi270%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2%20or%20ミニ色紙&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3ASidareyanagi270%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F21ab",
@@ -617,7 +617,7 @@ const JsonData = `[
     "place": "東7E30a",
     "name": "Halcyon",
     "master": "よひら",
-    "url": "https://x.com/search?q=from%3Anexus_mrst%20or%20from%3Aorts_anthology%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Anexus_mrst%20or%20from%3Aorts_anthology%20or%20from%3Alevetoike%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E46ab",
@@ -725,7 +725,7 @@ const JsonData = `[
     "place": "東7F29a",
     "name": "ぽよぽよDX",
     "master": "高城よよよ",
-    "url": "https://x.com/search?q=from%3Aakka_ri%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Aakka_ri%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F25b",
@@ -749,7 +749,7 @@ const JsonData = `[
     "place": "東7F34a",
     "name": "まめふくや",
     "master": "まめ",
-    "url": "https://x.com/search?q=from%3Amameyarow%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Amameyarow%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F07b",
@@ -827,7 +827,7 @@ const JsonData = `[
     "place": "東7F34b",
     "name": "もちもちの森林",
     "master": "ゆゆず",
-    "url": "https://x.com/search?q=from%3Ayyyuzu0629%20or%20from%3A844ym%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Ayyyuzu0629%20or%20from%3A844ym%20%20%23メルぱらRe2頒布物%20or%20%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E40a",
