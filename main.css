@@ -1,6 +1,23 @@
+#explore {
+    margin: auto;
+    width: 340px;
+    height: 35px;
+    text-align: right;
+}
+
+#field {
+    width: 130px;;
+}
+
+.match {
+    font-weight: bold;
+    color: red;
+}
+
 .container {
     display: flex;
     justify-content: center;
+    margin-bottom: 15px;
 }
 
 table {
@@ -14,7 +31,7 @@ table {
 }
 
 .another {
-    border: dotted 1px black;   /*実線 1px 黒*/
+    border: dashed 1px black;   /*実線 1px 黒*/
     width: 30px;
     height: 30px;
     text-align: center;
@@ -30,10 +47,6 @@ table {
 .aisle_h {
     visibility:hidden;
     height: 15px;
-}
-
-.space {
-    height: 20px;
 }
 
 .output {
@@ -74,7 +87,6 @@ p {
 /* 別ページ*/
 .link {
     text-align: center;
-    margin-top: 10px;
 }
 
 #list {
