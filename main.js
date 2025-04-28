@@ -11,7 +11,7 @@ const JsonData = `[
     "place": "東7F42b",
     "name": "秋の夜うさぎ",
     "producer": "あき、やと",
-    "url": "https://x.com/search?q=from%3Aakira_merc%20or%20from%3Aturayu_yato%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Aakira_merc%20or%20from%3Aturayu_yato%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F13ab",
@@ -143,7 +143,7 @@ const JsonData = `[
     "place": "東7F36a",
     "name": "おむらいす",
     "producer": "みさ",
-    "url": "https://x.com/search?q=from%3Amisa331004091%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Amisa331004091%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E41a",
@@ -172,14 +172,14 @@ const JsonData = `[
   {
     "place": "東7F43a",
     "name": "(株)どくだみりんご",
-    "producer": "かいちょお、るみなれす、ひよこ",
+    "producer": "かいちょお、ルミナレス、ひよこ",
     "url": "https://x.com/search?q=from%3Ashunkaichoo0910%20or%20from%3ALuminales_kanro%20or%20from%3Ahiyokoyoriyori%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F12ab",
     "name": "かみつば文芸部",
-    "producer": "シャトン、ギン、紅、はつかり",
-    "url": "https://x.com/search?q=from%3Anekoneko_chaton%20or%20from%3Agintrancenica%20or%20from%3Abeni_gmm%20or%20from%3Ahatsu0528%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2%20or%20#かみつば文芸部&src=typed_query&f=live"
+    "producer": "シャトン、ギン、紅、はつかり、ましゅろ",
+    "url": "https://x.com/search?q=from%3Anekoneko_chaton%20or%20from%3Agintrancenica%20or%20from%3Abeni_gmm%20or%20from%3Ahatsu0528%20or%20from%3A2b_lily%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2%20or%20#かみつば文芸部&src=typed_query&f=live"
   },
   {
     "place": "東7F33b",
@@ -388,8 +388,8 @@ const JsonData = `[
   {
     "place": "東7F23b",
     "name": "10ゴルドの輝跡",
-    "producer": "Sane",
-    "url": "https://x.com/search?q=from%3Ajoint_mrzine%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "寄稿につき複数",
+    "url": "https://x.com/search?q=from%3Ajoint_mrzine%20or%20from%3Aindy_merc%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F05b",
@@ -412,8 +412,8 @@ const JsonData = `[
   {
     "place": "東7F32ab",
     "name": "スイートブーケ",
-    "producer": "朱里綾目",
-    "url": "https://x.com/search?q=from%3AAkaayaI%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "朱里綾目、そに",
+    "url": "https://x.com/search?q=from%3AAkaayaI%20or%20from%3Asoni_mrst%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E45a",
@@ -443,7 +443,7 @@ const JsonData = `[
     "place": "東7F41b",
     "name": "スミレの砂糖づけ",
     "producer": "423",
-    "url": ""
+    "url": "https://x.com/search?q=from%3A423smr%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F17b",
@@ -635,7 +635,7 @@ const JsonData = `[
     "place": "東7F18a",
     "name": "被弾人withA",
     "producer": "あさり、ぬ",
-    "url": "https://x.com/search?q=from%3AHamaguri_158%20or%20from%3Asen_nnnnn%20or%20from%3AAonnu_0525%20or%20from%3Ahornowl_k%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AHamaguri_158%20or%20from%3Asen_nnnnn%20or%20from%3AAonnu_0525%20or%20from%3Ahornowl_k%20or%20from%3Athistle_imo%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F09a",
@@ -659,13 +659,13 @@ const JsonData = `[
     "place": "東4く28a",
     "name": "日々堕落していく",
     "producer": "ちるちる",
-    "url": "https://x.com/search?q=from%3Asinchiruchiru%20or%20from%3Ai_chiruchiru%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Asinchiruchiru%20or%20from%3Ai_chiruchiru%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F11a",
     "name": "ひふみ堂",
     "producer": "ユユノミ",
-    "url": "https://x.com/search?q=from%3AYuyunominomi%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3AYuyunominomi%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2%20or%20#メルストTRPG%20or%20メルぱら&src=typed_query&f=live"
   },
   {
     "place": "東7F06a",
@@ -785,7 +785,7 @@ const JsonData = `[
     "place": "東7F03a",
     "name": "めぢから100%",
     "producer": "eyes",
-    "url": "https://x.com/search?q=from%3Akiruma_0613%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Akiruma_0613%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F56ab",
@@ -857,7 +857,7 @@ const JsonData = `[
     "place": "東7F15b",
     "name": "ゆかし屋",
     "producer": "こち/TK",
-    "url": "https://x.com/search?q=from%3Akairen__seki%20filter%3Alinks&src=typed_query&f=live"
+    "url": "https://x.com/search?q=from%3Akairen__seki%20#メルぱらRe頒布物%20or%20#メルぱらRe&src=typed_query&f=live"
   },
   {
     "place": "東7F07a",
@@ -949,7 +949,7 @@ if (localStorage.hasOwnProperty('bookmark')) {
   }
 }
 
-// キーワード検索
+// キーワード検索を実行
 $('#search').on('click', function () {
   const keyword = $(this).prev().val();
   // 表示を初期化
