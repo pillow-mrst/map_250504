@@ -5,7 +5,7 @@ const JsonData = `[
     "place": "東7F28b",
     "name": "赤いきつねと緑のまるこ",
     "producer": "まるこ",
-    "xurl": ""
+    "xurl": "https://x.com/search?q=from%3Amarukodon%20filter%3Alinks&src=typed_query&f=live"
   },
   {
     "place": "東7F42b",
@@ -245,7 +245,7 @@ const JsonData = `[
     "place": "東7E28b",
     "name": "きらぼし",
     "producer": "ヒカル",
-    "xurl": "https://x.com/search?q=from%3Ahikat1019087%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Ahikat1019087%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F15a",
@@ -923,7 +923,7 @@ const JsonData = `[
     "place": "東7F61a",
     "name": "わいるどすぴいど",
     "producer": "たろうのすけ",
-    "xurl": "https://x.com/search?q=from%3Aborn3kesan%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Aborn3kesan%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   }
 ]`;
 
