@@ -388,7 +388,7 @@ const JsonData = `[
   {
     "place": "東7F23b",
     "name": "10ゴルドの輝跡",
-    "producer": "いんでぃ他多数(寄稿)",
+    "producer": "多数(寄稿)",
     "xurl": "https://x.com/search?q=from%3Ajoint_mrzine%20or%20from%3Aindy_merc%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
@@ -426,6 +426,12 @@ const JsonData = `[
     "name": "StellaLuccica",
     "producer": "ふじまき、月宮るな",
     "xurl": "https://x.com/search?q=from%3Aloo_iy%20or%20from%3Aluna_seventh%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+  },
+  {
+    "place": "東7F19a",
+    "name": "stroll road",
+    "producer": "笹葉更紗",
+    "xurl": "https://x.com/search?q=from%3ASarasa03301%20or%20from%3Asweetanthology%20filter%3Alinks&src=typed_query&f=live"
   },
   {
     "place": "東7E30b",
@@ -924,6 +930,12 @@ const JsonData = `[
     "name": "わいるどすぴいど",
     "producer": "たろうのすけ",
     "xurl": "https://x.com/search?q=from%3Aborn3kesan%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+  },
+  {
+    "place": "東7F35b",
+    "name": "301",
+    "producer": "3",
+    "xurl": ""
   }
 ]`;
 
