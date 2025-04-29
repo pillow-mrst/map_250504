@@ -56,7 +56,10 @@ table {
 .club {
     border: dashed 2px black;
     margin: auto;
-    padding: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
     width: 320px;
     display: none;
 }
@@ -108,6 +111,8 @@ p {
 }
 
 dl{
+    margin-top: 10px;
+    margin-bottom: 5px;
     padding-left: 10px;
     padding-right: 10px;
 }

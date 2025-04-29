@@ -947,8 +947,8 @@ if (localStorage.hasOwnProperty('bookmark')) {
     SaveData = localStorage.getItem('bookmark').split(',');
     //console.log(SaveData);
 
-    for (let i = 0; i < SaveData.length; i++) {
-      let desk_id = '#' + SaveData[i].slice(0, 3);
+    for (const data of SaveData) {
+      let desk_id = '#' + data.slice(0, 3);
       //console.log(desk_id);
       $('.container').find(desk_id).css('background-color', 'orange');
     }
@@ -960,13 +960,26 @@ $('#search').on('click', function () {
   const keyword = $(this).prev().val();
   // 表示を初期化
   $('.tbl').find('.booth, .another').removeClass('match');
+  $('.club').find('.place, .name, .producer').removeClass('match');
 
   if (keyword) {
-    arr.forEach(function (a) {
-      if (a.place.includes(keyword) || a.name.includes(keyword) || a.producer.includes(keyword)) {
+    for (const a of arr) {
+      let flag = 0;
+
+      if (a.place.includes(keyword)) {
+        flag += 1;
+      }
+      if (a.name.includes(keyword)) {
+        flag += 1;
+      }
+      if (a.producer.includes(keyword)) {
+        flag += 1;
+      }
+
+      if (flag) {
         $('.tbl').find('#' + a.place.slice(2,5)).addClass('match');
       }
-    });
+    }
   }
 });
 
@@ -1006,18 +1019,13 @@ $('#output').on('click', '.favorite', function () {
 });
 
 // ブースをクリック
-$('table').on('click', '.booth, .another', function () {
+$('.tbl').on('click', '.booth, .another', function () {
     const desk = $(this).prop('id');
     const label = ['ab', 'a', 'b'];
-    const len = label.length;
-    let data = [], $frame = [];
+    const data = label.map(lb => hash[desk + lb]);
+    const $frame = label.map(lb => $('#' + lb));
 
-    for (let i = 0; i < len; i++) {
-      data[i] = hash[desk + label[i]];
-      $frame[i] = $('#' + label[i]);
-    }
-
-    for (let i = 0; i < len; i++) {
+    for (let i = 0; i < label.length; i++) {
       if (data[i] != null) {
         let hall = data[i].place.slice(0,2);
         let place_name = hall + ' ' + desk + '-' + label[i];
@@ -1047,6 +1055,7 @@ $('table').on('click', '.booth, .another', function () {
         $frame[i].hide();
       }
     }
+    // 使い方・更新履歴のリンクを隠す
     $('.link').hide();
 });
 
