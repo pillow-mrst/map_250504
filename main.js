@@ -106,8 +106,8 @@ const JsonData = `[
   {
     "place": "東7E40b",
     "name": "LR66",
-    "producer": "ロクタ",
-    "xurl": "https://x.com/search?q=from%3A666tat666%20or%20from%3Atori_mrst%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "ロクタ、文鳥、ハヤヒ",
+    "xurl": "https://x.com/search?q=from%3A666tat666%20or%20from%3Atori_mrst%20or%20from%3Ahitohayashi%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F18b",
@@ -160,8 +160,8 @@ const JsonData = `[
   {
     "place": "東7F10b",
     "name": "カナン普及委員会",
-    "producer": "キュー",
-    "xurl": "https://x.com/search?q=from%3Anonostoria%20filter%3Alinks&src=typed_query&f=live"
+    "producer": "キュー、もか",
+    "xurl": "https://x.com/search?q=from%3Anonostoria%20or%20from%3ARey_sleeping%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F04a",
@@ -173,7 +173,7 @@ const JsonData = `[
     "place": "東7F43a",
     "name": "(株)どくだみりんご",
     "producer": "かいちょお、ルミナレス、ひよこ",
-    "xurl": "https://x.com/search?q=from%3Ashunkaichoo0910%20or%20from%3ALuminales_kanro%20or%20from%3Ahiyokoyoriyori%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Ashunkaichoo0910%20or%20from%3ALuminales_mrst%20or%20from%3Ahiyokoyoriyori%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F12ab",
@@ -185,7 +185,7 @@ const JsonData = `[
     "place": "東7F33b",
     "name": "がむしろ大爆破！",
     "producer": "くろいみれい、永風とばる、ヴァネドラ、朔盈(さくえい)",
-    "xurl": "https://x.com/search?q=from%3AMirexi_K%20or%20from%3Atbar_Aqpinwheel%20or%20from%3AVANEDRA_zip%20or%20from%3ASak_A_LD%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3AMirexi_K%20or%20from%3Atbar_Aqpinwheel%20or%20from%3AVANEDRA_zip%20or%20from%3ASak_A_LD%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F57b",
@@ -317,7 +317,7 @@ const JsonData = `[
     "place": "東7E36b",
     "name": "5月の庭は雨",
     "producer": "間宮",
-    "xurl": "https://x.com/search?q=from%3Anamioka0001%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Anamioka0001%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F30b",
@@ -437,7 +437,7 @@ const JsonData = `[
     "place": "東7E30b",
     "name": "smicco.",
     "producer": "810",
-    "xurl": ""
+    "xurl": "https://x.com/search?q=from%3Apoppo_coo%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F06b",
@@ -485,7 +485,7 @@ const JsonData = `[
     "place": "東7E45b",
     "name": "たまごどうふ",
     "producer": "かろ",
-    "xurl": "https://x.com/search?q=from%3Asorahito_08%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Asorahito_08%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F27b",
@@ -605,7 +605,7 @@ const JsonData = `[
     "place": "東7F42a",
     "name": "HAPPY AMUSE！",
     "producer": "野乃苺",
-    "xurl": "https://x.com/search?q=from%3Agonono15%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Agonono15%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E43a",
@@ -634,8 +634,8 @@ const JsonData = `[
   {
     "place": "東7E36a",
     "name": "*HERO",
-    "producer": "いもこ",
-    "xurl": "https://x.com/search?q=from%3A_mesigaumai%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "いもこ、こめつぶ",
+    "xurl": "https://x.com/search?q=from%3A_mesigaumai%20or%20from%3Akomekome_oni%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F18a",
@@ -647,7 +647,7 @@ const JsonData = `[
     "place": "東7F09a",
     "name": "Big Bad Box",
     "producer": "ちあき",
-    "xurl": "https://x.com/search?q=from%3Asnowwhiteocean1%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Asnowwhiteocean1%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E23b",
@@ -1070,6 +1070,19 @@ $('.tbl').on('click', '.booth, .another', function () {
     // 使い方・更新履歴のリンクを隠す
     $('.link').hide();
 });
+
+
+$('.popup').magnificPopup({
+  type: 'inline',
+  mainClass: 'mfp-fade', //フェードインアウトについてクラスを設定
+  removalDelay: 100, //ポップアップが閉じるときの遅延時間を設定
+});
+// 閉じるボタン
+$('.close').on('click', function (e) {
+  e.preventDefault();
+  $.magnificPopup.close();
+});
+
 
 // サークル情報の辞書取得
 //async () => {
