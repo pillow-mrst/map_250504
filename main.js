@@ -1138,12 +1138,14 @@ $('.tbl').on('click', '.booth, .another', function () {
             $frame[i].find('.menu, .menu_').show();
             // お品書きクリック時判定だと即時反映できないため(原因不明)
             menuCount(img_dir, i);
+            // 外に出すと出現が早い
+            $frame[i].show();
           })
           .catch(() => {
             $frame[i].find('.menu, .menu_').hide();
+            // 外に出すと出現が早い
+            $frame[i].show();
           });
-
-        $frame[i].show();
       } else {
         $frame[i].hide();
       }
