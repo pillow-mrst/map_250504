@@ -88,8 +88,8 @@ const JsonData = `[
   {
     "place": "東7E33a",
     "name": "海空船",
-    "producer": "未羽",
-    "xurl": "https://x.com/search?q=from%3Atrths0930%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "未羽、飴中毒",
+    "xurl": "https://x.com/search?q=from%3Atrths0930%20or%20from%3Acarrotroll%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F04b",
@@ -101,7 +101,7 @@ const JsonData = `[
     "place": "東7F50b",
     "name": "AM1:00",
     "producer": "とげたに",
-    "xurl": "https://x.com/search?q=from%3At0gebakudan%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3At0gebakudan%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E40b",
@@ -125,7 +125,7 @@ const JsonData = `[
     "place": "東7F19b",
     "name": "おかゆなら食べた",
     "producer": "釜玉うどんの生卵",
-    "xurl": "https://x.com/search?q=from%3Akankanknt%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Akankanknt%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東4し09a",
@@ -137,7 +137,7 @@ const JsonData = `[
     "place": "東7F58ab",
     "name": "おしくらまんじゅう",
     "producer": "コル、人人、綿山、川本",
-    "xurl": "https://x.com/search?q=from%3Amerusutotanosii%20or%20from%3Areed_yosi%20or%20from%3AhohoTp36%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Amerusutotanosii%20or%20from%3Areed_yosi%20or%20from%3AhohoTp36%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F36a",
@@ -431,7 +431,7 @@ const JsonData = `[
     "place": "東7F19a",
     "name": "stroll road",
     "producer": "笹葉更紗",
-    "xurl": "https://x.com/search?q=from%3ASarasa03301%20or%20from%3Asweetanthology%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3ASarasa03301%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E30b",
@@ -497,7 +497,7 @@ const JsonData = `[
     "place": "東7F45a",
     "name": "魑魅モン魎",
     "producer": "West仮面",
-    "xurl": "https://x.com/search?q=from%3AWestkamen%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3AWestkamen%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E38a",
@@ -695,7 +695,7 @@ const JsonData = `[
     "place": "東7F29b",
     "name": "ブルーアワー",
     "producer": "りいりん",
-    "xurl": "https://x.com/search?q=from%3Ajdriringil%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Ajdriringil%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F52b",
@@ -707,7 +707,7 @@ const JsonData = `[
     "place": "東7E25b",
     "name": "proxy",
     "producer": "れーの",
-    "xurl": "https://x.com/search?q=from%3A_Re__No_%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3A_Re__No_%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E29a",
@@ -767,7 +767,7 @@ const JsonData = `[
     "place": "東7F07b",
     "name": "みぞれ鍋(なべ家)",
     "producer": "タカ雪",
-    "xurl": "https://x.com/search?q=from%3AsnTakam%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3AsnTakam%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F41a",
