@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.14.1/themes/smoothness/jquery-ui.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.2.0/magnific-popup.min.css">
   <!--
-  "./main.css"
+    "./main.css"
   -->
   <link rel="stylesheet" href="https://pillow-mrst.github.io/map_250504/main.css">
   </head>
@@ -72,7 +72,7 @@
           <td id="F51" class="booth">51</td>
         </tr>
         <tr>
-          <td id="F64" class="booth">64</td>
+          <td class="empty">×</td>
           <td id="F50" class="booth">50</td>
         </tr>
         <tr>
@@ -283,7 +283,7 @@
         <span class="producer"></span>
       </div>
       <div class="url">
-        <span class="menu">お品書き</span>
+        <a class="menu popup" href="#inline-wrap">お品書き</a>
         <span class="menu_">&ensp;/&ensp;</span>
         <span><a class="goods" href="">頒布物</a></span>
       </div>
@@ -303,7 +303,7 @@
         <span class="producer"></span>
       </div>
       <div class="url">
-        <span class="menu">お品書き</span>
+        <a class="menu popup" href="#inline-wrap">お品書き</a>
         <span class="menu_">&ensp;/&ensp;</span>
         <span><a class="goods" href="">頒布物</a></span>
       </div>
@@ -323,14 +323,30 @@
         <span class="producer"></span>
       </div>
       <div class="url">
-        <span class="menu">お品書き</span>
-        <span class="menu_">&ensp;/&ensp;</span>
+        <a class="menu popup" href="#inline-wrap">お品書き</a>
+        <span class="menu">&ensp;/&ensp;</span>
         <span><a class="goods" href="">頒布物</a></span>
       </div>
     </div>
 </div>
 
-<div></div>
+<!-- クリックしたら表示される部分 -->
+<div id="inline-wrap" class="mfp-hide">
+  <div id="img_div">
+    <img id="menu_img" src="./">
+  </div>
+  <div id="pages">
+    <span class="back">&lt;&lt;</span>
+    <span class="page_num">1</span>
+    <span>/</span>
+    <span class="page_all">1</span>
+    <span class="go">&gt;&gt;</span>
+
+  </div>
+  <div id="close_div">
+    <a class="close" href="#">閉じる</a>
+  </div>
+</div>
 
 <div class="link">
   <span><a href="./description.html">使い方・更新履歴</a></span>
@@ -345,7 +361,7 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.2.0/jquery.magnific-popup.min.js"></script>
   <script>window.jQuery.ui || document.write('<script src="/libs/jquery.magnific-popup.min.js"><\/script>')</script>
   <!--
-  "./main.js"
+    "./main.js"
   -->
   <script type="text/javascript" src="https://pillow-mrst.github.io/map_250504/main.js"></script>
 </body>

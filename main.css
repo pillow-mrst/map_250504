@@ -122,3 +122,76 @@ dt{
 dd{
     margin-left:80px;
 }
+
+
+.back, .go {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.page_num {
+    padding-right: 5px;
+}
+
+.page_all {
+    padding-left: 5px;
+}
+
+
+#menu_img {
+    padding-top: 5dvh;
+    padding-left: 5%;
+    padding-right: 5%;
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+}
+
+#pages {
+    text-align: center;
+}
+
+.mfp-content {
+    background-color: #FFF;
+    max-width: 360px;
+}
+
+#close_div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* オーバーレイ 初期状態 */
+.mfp-fade.mfp-bg {
+    opacity: 0;
+
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+/* オーバーレイ 表示アニメーション */
+.mfp-fade.mfp-bg.mfp-ready {
+    opacity: .8;
+}
+/* オーバーレイ 非表示アニメーション */
+.mfp-fade.mfp-bg.mfp-removing {
+    opacity: 0;
+}
+
+/* コンテンツ 初期状態 */
+.mfp-fade.mfp-wrap .mfp-content {
+    opacity: 0;
+
+    -webkit-transition: all .3s ease-out;
+    -moz-transition: all .3s ease-out;
+    transition: all .3s ease-out;
+}
+/* コンテンツ 表示アニメーション */
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+    opacity: 1;
+}
+/* コンテンツ 非表示アニメーション */
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+    opacity: 0;
+}

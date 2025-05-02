@@ -113,7 +113,7 @@ const JsonData = `[
     "place": "東7F18b",
     "name": "えるだめりぃ！",
     "producer": "エリンギ",
-    "xurl": "https://x.com/search?q=from%3Aeringi_buna%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Aeringi_buna%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F20b",
@@ -130,8 +130,8 @@ const JsonData = `[
   {
     "place": "東4し09a",
     "name": "おしおおおめで！",
-    "producer": "ウメシソ",
-    "xurl": "https://x.com/search?q=from%3A16_umesiso%20filter%3Alinks&src=typed_query&f=live"
+    "producer": "ウメシソ、胡麻餅",
+    "xurl": "https://x.com/search?q=from%3A16_umesiso%20or%20from%3Amochi50g%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F58ab",
@@ -161,7 +161,7 @@ const JsonData = `[
     "place": "東7F10b",
     "name": "カナン普及委員会",
     "producer": "キュー、もか",
-    "xurl": "https://x.com/search?q=from%3Anonostoria%20or%20from%3ARey_sleeping%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Anonostoria%20or%20from%3ARey_sleeping%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2%20or%20%23メルぱらRe2頒布品&src=typed_query&f=live"
   },
   {
     "place": "東7F04a",
@@ -196,8 +196,8 @@ const JsonData = `[
   {
     "place": "東7F48b",
     "name": "夏炉冬扇",
-    "producer": "睦月",
-    "xurl": "https://x.com/search?q=from%3Amutsuki_ika%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "睦月、ぶん太",
+    "xurl": "https://x.com/search?q=from%3Amutsuki_ika%20or%20from%3Abunta_2238%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E41b",
@@ -275,7 +275,7 @@ const JsonData = `[
     "place": "東7F47b",
     "name": "くるっぽー",
     "producer": "ぱと",
-    "xurl": "https://x.com/search?q=from%3Apato_cocco%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Apato_cocco%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E44b",
@@ -365,7 +365,7 @@ const JsonData = `[
     "place": "東7F55ab",
     "name": "ジャモの木箱",
     "producer": "槐　春香",
-    "xurl": "https://x.com/search?q=from%3Aoldake%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Aoldake%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2%20or%20%23めるパラRe2頒布&src=typed_query&f=live"
   },
   {
     "place": "東7F40a",
@@ -533,7 +533,7 @@ const JsonData = `[
     "place": "東7F17a",
     "name": "東西スカイ",
     "producer": "八咫",
-    "xurl": "https://x.com/search?q=from%3Atorichan_comeon%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Atorichan_comeon%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E26a",
@@ -785,7 +785,7 @@ const JsonData = `[
     "place": "東7F52a",
     "name": "紫の国",
     "producer": "葵星",
-    "xurl": "https://x.com/search?q=from%3Aaoiboshi_mrst%20filter%3Alinks&src=typed_query&f=live"
+    "xurl": "https://x.com/search?q=from%3Aaoiboshi_mrst%20or%20from%3Amrst_1c%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7E38b",
@@ -880,8 +880,8 @@ const JsonData = `[
   {
     "place": "東7F39ab",
     "name": "癒術士派遣協会",
-    "producer": "HARIO、狐村杏里(こむらあんり)、ナギ",
-    "xurl": "https://x.com/search?q=from%3AHario_cos%20or%20from%3AComCom_majo%20or%20from%3Anagimrst_cos%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
+    "producer": "HARIO、狐村杏里(こむらあんり)、ナギ、ゆずり",
+    "xurl": "https://x.com/search?q=from%3AHario_cos%20or%20from%3AComCom_majo%20or%20from%3Anagimrst_cos%20or%20from%3Ayuzuricos%20%23メルぱらRe2頒布物%20or%20%23メルぱらRe2&src=typed_query&f=live"
   },
   {
     "place": "東7F61b",
@@ -952,6 +952,9 @@ const hash = Object.fromEntries(arr.map(c => [c.place.slice(2,), c]));
 let SaveData = [];
 // デバッグおかしくなった時用
 //localStorage.removeItem('bookmark');
+
+// お品書きの最大ページ数(2以上しか使わない)
+let page_max = [1, 1, 1];
 
 // 読み込み実行
 if (localStorage.hasOwnProperty('bookmark')) {
@@ -1030,6 +1033,70 @@ $('#output').on('click', '.favorite', function () {
   localStorage.setItem('bookmark', SaveData.join(','));
 });
 
+
+function checkImage(url){
+  return new Promise(function (resolve, reject) {
+      const img = new Image();
+      img.src = url;
+      img.onload = function () { return resolve(url) };
+      img.onerror = function () { return reject(url) };
+  });
+};
+
+// 最終ページが1の時はpage_max使わないので判定なしで大丈夫
+async function menuCount(dir, i) {
+
+  let img3_url = dir + 'menu3.jpg';
+  checkImage(img3_url)
+    .then(() => {
+
+      let img4_url = dir + 'menu4.jpg';
+      checkImage(img4_url)
+        .then(() => {
+
+          let img5_url = dir + 'menu5.jpg';
+          checkImage(img5_url)
+            .then(() => {
+
+              let img6_url = dir + 'menu6.jpg';
+              checkImage(img6_url)
+                .then(() => {
+                  page_max[i] = 6;
+                })
+                .catch(() => {
+                  page_max[i] = 5;
+                });
+            })
+            .catch(() => {
+              page_max[i] = 4;
+            });
+        })
+        .catch(() => {
+          page_max[i] = 3;
+        });
+    })
+    .catch(() => {
+      page_max[i] = 2;
+    });
+}
+
+/*
+function menuCount(dir) {
+  let i = 1, i_max = 7;
+
+  for (i = 3; i < i_max; i++) {
+    try {
+      let img_url = dir + 'menu' + String(i) + '.jpg';
+      checkImage(img_url);
+    } catch {
+      page_max = i - 1;
+      // 強制的にループ抜けさせる
+      i = i_max;
+    }
+  }
+}
+*/
+
 // ブースをクリック
 $('.tbl').on('click', '.booth, .another', function () {
     const desk = $(this).prop('id');
@@ -1062,6 +1129,20 @@ $('.tbl').on('click', '.booth, .another', function () {
           $checked.next().text('☆');
           $checked.next().css('color', 'black');
         }
+
+        const img_dir = './img/' + desk + label[i] + '/';
+        const img_url = img_dir + 'menu1.jpg';
+
+        checkImage(img_url)
+          .then(() => {
+            $frame[i].find('.menu, .menu_').show();
+            // お品書きクリック時判定だと即時反映できないため(原因不明)
+            menuCount(img_dir, i);
+          })
+          .catch(() => {
+            $frame[i].find('.menu, .menu_').hide();
+          });
+
         $frame[i].show();
       } else {
         $frame[i].hide();
@@ -1069,6 +1150,75 @@ $('.tbl').on('click', '.booth, .another', function () {
     }
     // 使い方・更新履歴のリンクを隠す
     $('.link').hide();
+});
+
+//　お品書きをクリック
+$('.club').on('click', '.menu', function () {
+  const location  = $(this).closest('.club').find('.place').text();
+  const key = location.slice(location.indexOf(' ') + 1, location.indexOf(')')).replace('-', '');
+
+  const img_dir = './img/' + key + '/';
+  // お品書きは1ページまでは存在
+  const img_url = img_dir + 'menu1.jpg';
+  $('#menu_img').attr('src', img_url);
+
+  const $pages = $('#pages');
+  const img2_url = img_dir + 'menu2.jpg';
+  checkImage(img2_url)
+    .then(() => {
+      $pages.children('.back, .go').show();
+      $pages.children('.page_num').text(1);
+      if (key.includes('ab')) {
+        $pages.children('.page_all').text(page_max[0]);
+      } else if (key.includes('a')) {
+        $pages.children('.page_all').text(page_max[1]);
+      } else if (key.includes('b')) {
+        $pages.children('.page_all').text(page_max[2]);
+      } else {
+        $pages.children('.page_all').text(0);
+      }
+    })
+    .catch(() => {
+      $pages.children('.back, .go').hide();
+      $pages.children('.page_num').text(1);
+      $pages.children('.page_all').text(1);
+    });
+});
+
+// 次ページに進む
+$('#pages').on('click', '.go', function () {
+  const $pages = $('#pages');
+  const current_page = Number($pages.children('.page_num').text());
+  const final_page = Number($pages.children('.page_all').text());
+  const next_page = current_page + 1;
+  const current_url = $('#menu_img').attr('src');
+
+  if (current_page < final_page) {
+    var next_url = current_url.replace('menu' + String(current_page), 'menu' + String(next_page));
+    $pages.children('.page_num').text(next_page);
+  } else {
+    var next_url = current_url.replace('menu' + String(current_page), 'menu1');
+    $pages.children('.page_num').text(1)
+  }
+  $('#menu_img').attr('src', next_url);
+});
+
+// 前ページに戻る
+$('#pages').on('click', '.back', function () {
+  const $pages = $('#pages');
+  const current_page = Number($pages.children('.page_num').text());
+  const final_page = Number($pages.children('.page_all').text());
+  const prev_page = current_page - 1;
+  const current_url = $('#menu_img').attr('src');
+
+  if (current_page > 1) {
+    var next_url = current_url.replace('menu' + String(current_page), 'menu' + String(prev_page));
+    $pages.children('.page_num').text(prev_page);
+  } else {
+    var next_url = current_url.replace('menu' + String(current_page), 'menu' + String(final_page));
+    $pages.children('.page_num').text(final_page)
+  }
+  $('#menu_img').attr('src', next_url);
 });
 
 
@@ -1083,11 +1233,24 @@ $('.close').on('click', function (e) {
   $.magnificPopup.close();
 });
 
+/*
+//後で念のため確認(onloadは動く)
+async function getData(url) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`レスポンスステータス: ${response.status}`);
+    }
+    const json = await response.json();
+    console.log(json);
 
-// サークル情報の辞書取得
-//async () => {
-//  const response = await fetch('./data.json');
-//  const arr =  await response.json();
-//  const hash = Object.fromEntries(arr.map(c => [c.place.substr(3,3), c]));
-  //console.log(hash["28b"]);
-//};
+  } catch (error) {
+    console.error(error.message);
+  }
+}
+
+$(document).ready(function() {
+	const url = './data.json' //任意のAPIのhttpアドレス
+  getData(url);
+});
+*/
